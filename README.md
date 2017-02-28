@@ -1,2 +1,2 @@
 # PyWeb
-Web application w/ Django framework
+Web application w/ Django framework.
